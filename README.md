@@ -2,6 +2,8 @@
 
 🚀 AI Engineer focused on **AI Agents, Automation & Data Intelligence**
 
+# Now i am working as a ai engineer
+
 ### 🧠 Skills
 
 - LLMs (OpenAI, Claude)
