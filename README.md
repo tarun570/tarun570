@@ -3,11 +3,12 @@
 🚀 AI Engineer focused on **AI Agents, Automation & Data Intelligence**
 
 ### 🧠 Skills
-- Python, Pandas, NumPy
+
 - LLMs (OpenAI, Claude)
 - AI Agents & Automation (n8n, Make)
 - API Integration
 - SQL & Data Analysis
+- - Python, Pandas, NumPy
 
 ### 🤖 Featured AI Projects
 🔹 **AI Agent Automation with n8n**
